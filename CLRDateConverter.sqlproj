@@ -68,5 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateConverters.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
 </Project>
